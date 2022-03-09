@@ -41,6 +41,20 @@ const config = {
       "@docusaurus/plugin-content-docs",
       /** @type {import('@docusaurus/plugin-content-docs').Options} */
       {
+        id: "docs-projects",
+        path: "docs-projects",
+        routeBasePath: "docs-projects",
+        sidebarPath: require.resolve("./sidebars.js"),
+        editUrl: "https://github.com/AhmedCoolProjects/CodeESIDocs/tree/main",
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+        editCurrentVersion: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      {
         id: "docs-sharing-night",
         path: "docs-sharing-night",
         routeBasePath: "docs-sharing-night",
@@ -51,6 +65,7 @@ const config = {
         editCurrentVersion: true,
       },
     ],
+
     [
       "@docusaurus/plugin-content-blog",
       {
@@ -77,7 +92,13 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorials",
+            label: "Training",
+          },
+          {
+            to: "/docs-projects/intro",
+            docId: "intro",
+            position: "left",
+            label: "Projects",
           },
           {
             to: "/blog/intro",
@@ -114,11 +135,11 @@ const config = {
             items: [
               {
                 label: "Training",
-                to: "/docs/training/intro",
+                to: "/docs/intro",
               },
               {
                 label: "Projects",
-                to: "/docs/projects/intro",
+                to: "/docs-projects/intro",
               },
             ],
           },
@@ -166,6 +187,14 @@ const config = {
               {
                 label: "codeesi.com",
                 href: "https://codeesi.com",
+              },
+              {
+                label: "esi.codeesi.com",
+                href: "https://esi.codeesi.com",
+              },
+              {
+                label: "enactus.codeesi.com",
+                href: "https://enactus.codeesi.com",
               },
             ],
           },
