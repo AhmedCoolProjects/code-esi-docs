@@ -68,3 +68,11 @@ Après, suivez les instructions ci-dessous.
 3. **Login** sur [Login](https://www.seedebate.com/login)
 4. Compléter votre profil
 5. **Participer** sur [Participation Fintec-Hack 2dn Edition](https://seedebate.com/challenges/fintechack2)
+
+:::important
+Pour **les étudiants de l'ESI**, vous pouvez obtenir plus d'aide et former vos groupes sur notre **CODE ESI COMMUNITY** group.
+:::
+
+## Pour plus d'informations
+
+Consulter [FinTech Hack 2dn Edition](https://www.seedebate.com/challenges/fintechack2)
