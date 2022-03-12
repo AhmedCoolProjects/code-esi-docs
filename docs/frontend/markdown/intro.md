@@ -73,11 +73,29 @@ We can use the `-` character to create lists.
 - List item 3
 ```
 
+Result:
+
 <code>
 
 - List item 1
 - List item 2
 - List item 3
+
+</code>
+
+```
+1. List item 1
+2. List item 2
+3. List item 3
+```
+
+Result:
+
+<code>
+
+1. List item 1
+2. List item 2
+3. List item 3
 
 </code>
 
@@ -169,6 +187,8 @@ Like this:
 > blockquote here
 
 > blockquote here
+
+> > Nesteed blockquote
 ```
 
 Result:
@@ -178,6 +198,8 @@ Result:
 > blockquote here
 
 > blockquote here
+
+> > Nesteed blockquote
 
 ### 8. Styling and Layouts
 
@@ -288,3 +310,8 @@ Use `<!-- -->` to create comments.
 Result:
 
 <!-- this is my comment, you can't see it 🙂 -->
+
+### 10. Text Formatting
+
+- **Bold**: `**bold**`
+- _Italic_: `_italic_`

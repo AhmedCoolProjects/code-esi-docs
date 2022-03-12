@@ -7,6 +7,7 @@ const config = {
   tagline: "CODE ESI PROJECTS, WORKSHOPS, AND EVENTS",
   // description: "CODE ESI ( Club Of Data Engineers ESI )",
   url: "https://codeesi.com",
+  staticDirectories: ["static"],
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
