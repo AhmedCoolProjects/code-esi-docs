@@ -9,7 +9,7 @@ tags: [ensias, programming, itholic]
 
 ![itholic-logo](https://ahmedcoolprojects.github.io/projects-videos/code_docs/itholic_2022.jpg)
 
-## Contexte du challenge
+## Description
 
 ITHOLIC CPC is a **team** competitive programming contest open to **engineering schools** & **universities**. It is part of the ITHOLIC event organized by ENSIAS IT CLUB.
 
