@@ -78,6 +78,17 @@ const config = {
         showReadingTime: true,
       },
     ],
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "blog-blog",
+        path: "blog-blog",
+        editUrl: `https://github.com/AhmedCoolProjects/CodeESIDocs/tree/main`,
+        routeBasePath: "blog-blog",
+        include: ["**/*.{md,mdx}"],
+        showReadingTime: true,
+      },
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -118,6 +129,11 @@ const config = {
             position: "left",
           },
           {
+            to: "/blog-blog/intro",
+            label: "Blog",
+            position: "left",
+          },
+          {
             href: "https://codeesi.com",
             label: "CODE ESI",
             position: "right",
@@ -154,6 +170,10 @@ const config = {
               {
                 label: "Sharing Nights",
                 to: "/docs-sharing-night/intro",
+              },
+              {
+                label: "Blog",
+                to: "/blog-blog/intro",
               },
             ],
           },

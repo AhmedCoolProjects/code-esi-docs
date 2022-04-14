@@ -3,6 +3,7 @@ slug: fintec-hack-2-edition
 title: Fintec Hack 2nd Edition
 authors: [Ahmed Bargady]
 tags: [hackathon, fintec, um6p]
+sidebar_position: 1$
 ---
 
 `La Fintech au service de l'Afrique`
