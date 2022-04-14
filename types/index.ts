@@ -8,3 +8,6 @@ export type PersonCardProps = {
   linkedIn?: string;
   outlook?: string;
 };
+export type CreatorCardType = {
+  id: string;
+};
