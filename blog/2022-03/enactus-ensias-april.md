@@ -1,5 +1,7 @@
 ---
-title: ENACTUS ENSIAS Bootcamp
+title: ENACTUS ENSIAS Bootcamp 1st Edition
+authors: [Ahmed Bargady]
+tags: [bootcamp, enactus, ensias]
 ---
 
 `Préparez vos équipes et rejoignez-nous pour assister aux divers ateliers et rencontrer nos invités de haut calibre.`
