@@ -12,7 +12,9 @@ export function UserCard(props: PersonCardProps) {
         alt={fullName}
       />
       <h1 className="text-2xl ">{fullName}</h1>
-      <h1 className="text-xl opacity-80 text-center min-h-[55px]">{post}</h1>
+      <h1 className="text-xl opacity-80 font-medium text-center min-h-[55px]">
+        {post}
+      </h1>
       <div className="flex flex-row items-center justify-around py-5 w-full ">
         {linkedIn ? (
           <a href={linkedIn} target="_blank">
