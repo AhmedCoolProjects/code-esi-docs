@@ -33,3 +33,4 @@ A conference that will take place in parallel with the competition, on **THE INT
 ## Links
 
 - [POST ON LINKEDIN](https://www.linkedin.com/events/codeit6-06924528821824094208/)
+- [POST REGISTRATION](https://www.linkedin.com/posts/hassania-it-club_hassaniaabritabrclub-codeabritabr6-weabrmakeabritabrhappen-activity-6926295093062553600-CDcE?utm_source=linkedin_share&utm_medium=member_desktop_web)
