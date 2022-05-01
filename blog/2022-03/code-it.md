@@ -6,7 +6,7 @@ tags: [contest, problem-solving, code-it, hassania]
 
 `Hassania IT Club organizes the CODE IT programming competition every year which takes place over three days of learning, coding and fun involving students from different institutions, schools and universities.`
 
-![CODE IT](https://user-images.githubusercontent.com/88542574/166150121-f1715fa6-b9cc-4ee1-818d-3031a5988f24.png)
+![CODE IT](https://user-images.githubusercontent.com/88542574/166150541-815f57e9-50af-45ed-8ef6-0d8208ad36e0.png)
 
 ## Subject
 
@@ -24,9 +24,10 @@ If you are a programming enthusiast who enjoys problems solving, do not miss the
 2. 2 up to 3 persons, from the **same school**.
 3. The participation fees are fixed at **70dh** for each participant.
 4. Register on: [REGISTER](https://forms.gle/bxwi7swKeLboT6ks5)
+5. Within the Hassania School of Public Works (**EHTP**) on **May 28 and 29**, 2022 with a variety of activities.
 
 :::note
-The starting date of the contest will be communicated soon
+A conference that will take place in parallel with the competition, on **THE INTERNET OF THINGS FOR SMART LIVING**, you can attend to learn about the Internet of Things and the smart living.
 :::
 
 ## Links
