@@ -1,12 +1,12 @@
 ---
-title: CODE IT - 6.0 -
+title: CODE IT - 6.0 - H.I.T.C
 authors: [Ahmed Bargady]
-tags: [contest, problem-solving, code-it]
+tags: [contest, problem-solving, code-it, hassania]
 ---
 
-`Poblem Solving Contest on the national level`
+`Hassania IT Club organizes the CODE IT programming competition every year which takes place over three days of learning, coding and fun involving students from different institutions, schools and universities.`
 
-![CODE IT](https://user-images.githubusercontent.com/88542574/166149064-7e1339aa-f2c8-48e5-8299-9b64b2d15853.png)
+![CODE IT](https://user-images.githubusercontent.com/88542574/166150121-f1715fa6-b9cc-4ee1-818d-3031a5988f24.png)
 
 ## Subject
 
@@ -20,8 +20,8 @@ If you are a programming enthusiast who enjoys problems solving, do not miss the
 
 ## Inscription
 
-1. Deadline to participate is **21 May**.
-2. 2 to 3 persons, from the **same school**.
+1. Submitting deadline is **21 May**.
+2. 2 up to 3 persons, from the **same school**.
 3. The participation fees are fixed at **70dh** for each participant.
 4. Register on: [REGISTER](https://forms.gle/bxwi7swKeLboT6ks5)
 
@@ -31,4 +31,4 @@ The starting date of the contest will be communicated soon
 
 ## Links
 
-- [POST ON LINKEDIN](https://www.linkedin.com/posts/clubzerones_savethedate-ctf-code-activity-6921581877300461568-Kquh?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [POST ON LINKEDIN](https://www.linkedin.com/events/codeit6-06924528821824094208/)
