@@ -5,7 +5,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "CODE ESI DOCS",
   tagline: "CODE ESI PROJECTS, WORKSHOPS, AND EVENTS",
-  // description: "CODE ESI ( Club Of Data Engineers ESI )",
   url: "https://codeesi.com",
   staticDirectories: ["static"],
   baseUrl: "/",
@@ -34,6 +33,12 @@ const config = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
         },
       }),
     ],
@@ -94,6 +99,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: "5a332c531a14ae6ddc920945035e3335",
+        appId: "XTFXYDESGC",
+        indexName: "prod_index",
+      },
       navbar: {
         title: "CODE ESI DOCS",
         logo: {
