@@ -50,5 +50,8 @@
       "last 1 safari version"
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.14"
+  }
 }
